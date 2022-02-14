@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'times new roman';
+    color:black;
+}
+
+img.wardrobe {
+        height: 20px;
+        max-width: 50%;
+        width: 50%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+
+h3 {
+    text-align: center;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+
+img.wardrobe:hover {
+    background-image: url('https://cdn.discordapp.com/attachments/411355060878966784/941172759675928666/wardrobe2transparent.png');
+}
